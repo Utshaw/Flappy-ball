@@ -1,5 +1,7 @@
 # Flappy-ball
-- implemented using iGraphics which is a wrapper for OpenGL in 2D
+
+- inspired by the popular game [Flappy Bird](https://flappybird.io/)
+- C++ project implemented using iGraphics which is a wrapper for OpenGL in 2D
 
 ## Contributors
 [Farhan Tanvir Utshaw](https://github.com/Utshaw) <br>
